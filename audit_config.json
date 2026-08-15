@@ -1,0 +1,15 @@
+{
+  "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+  "channel_name": "freeCodeCamp.org",
+  "video_ids": [
+    "rfscVS0vtbw",
+    "PkZNo7MFNFg",
+    "KJgsSFOSQv0",
+    "i_LwzRVP7bg",
+    "9He4UBLyk8Y",
+    "4SXCHvxRSNE"
+  ],
+  "high_threshold": 5000000,
+  "medium_threshold": 500000,
+  "report_filename": "video_audit_report.csv"
+}
