@@ -1,0 +1,43 @@
+{
+  "catalog": "youtube_github_fetch_youtube-transcript_filesystem_571",
+  "generated_at": "2026-08-15T22:17:13Z",
+  "source": "https://github.com/jonesdavidnvjgh3839-cloud/content-audit-queue-512",
+  "entries": [
+    {
+      "video_id": "QuzttTTLyMk",
+      "expected_title": "Claude Code Tutorial Dropped #claude #claudecode"
+    },
+    {
+      "video_id": "IuyVVtr1uhY",
+      "expected_title": "Claude Code Tutorial - Build Apps 10x Faster with AI"
+    },
+    {
+      "video_id": "CIXT-kc3l6g",
+      "expected_title": "Top Programming Languages to Learn in 2026 #ai #technology #codeprep #programming #coding #tech"
+    },
+    {
+      "video_id": "naNcmnKskUE",
+      "expected_title": "Top 5 Programming Languages to Learn in 2026 (to Actually Get Hired)"
+    },
+    {
+      "video_id": "bshe96X5KkA",
+      "expected_title": "AI Course for Developers - Build AI-Powered Apps"
+    },
+    {
+      "video_id": "PtETUYa3i2Q",
+      "expected_title": "AI Course for Developers – Build AI-Powered Apps with React"
+    },
+    {
+      "video_id": "h4FRpDGuJyI",
+      "expected_title": "Microsoft laid off 6,000 people… but why?"
+    },
+    {
+      "video_id": "EWd3_I4X32g",
+      "expected_title": "Spring Boot Project: Build a REST API for an E-commerce Platform"
+    },
+    {
+      "video_id": "QaUdIt_UuDaT",
+      "expected_title": "NovaStream Product Deep Dive 2024"
+    }
+  ]
+}
